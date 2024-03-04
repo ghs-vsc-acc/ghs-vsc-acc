@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on SFML projects
 
-<img src="https://myreadme.vercel.app/api/embed/ghs-vsc-acc?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghs-vsc-acc&layout=compact)
